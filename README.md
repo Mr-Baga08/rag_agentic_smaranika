@@ -1,13 +1,4 @@
----
-title: Agentic RAG System
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
-license: mit
----
+
   
 # 🤖 Agentic RAG System
 
